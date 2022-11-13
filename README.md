@@ -1,3 +1,8 @@
+# Warning
+
+Support for this source code (repository) ended in April 2022 and this source will no longer be updated. So, the code may have bugs and you can run it and debug it (and send the modified version to my email to publish with your name) or use the forks of this repository.
+
+
 # Introduction
 
 This module is responsible for liking the comments Blow
